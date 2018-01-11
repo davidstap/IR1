@@ -4,6 +4,7 @@ Homeworks for Information Retrieval 1
 
 Function docstrings should be formatted according Google style:
 
+```
 def function_with_types_in_docstring(param1, param2):
     """Example function with types documented in the docstring.
 
@@ -22,3 +23,4 @@ def function_with_types_in_docstring(param1, param2):
         https://www.python.org/dev/peps/pep-0484/
 
     """
+```    
